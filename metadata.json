@@ -1,0 +1,6 @@
+{
+  "name": "AI Insurance Assistant",
+  "description": "High-converting, compliant emails, texts, and call scripts for life insurance agents powered by customer details and real policy libraries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
